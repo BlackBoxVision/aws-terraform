@@ -1,0 +1,7 @@
+*auto.tfvars
+*.tfstate
+*.backup
+
+*.pem
+rootkey.*
+
